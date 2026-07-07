@@ -16,6 +16,8 @@ Give any business owner or manager a single chat box where they can ask plain-En
 The workflow pattern is domain-agnostic. Point it at your own database schema and it works for any business built around the same shape of data: locations/branches, staff, customers, services or products, and transactions.
 
 ---
+<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/64f4fe6c-574d-4f95-8d81-28499d7b91d2" />
+<img width="1896" height="760" alt="image" src="https://github.com/user-attachments/assets/ecacb441-6a0a-4b5d-a574-2fc3039c764e" />
 
 ## ✨ Features
 
