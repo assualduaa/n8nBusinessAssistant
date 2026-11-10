@@ -7,6 +7,8 @@ A chat-based AI agent — built in **n8n** — that answers natural-language bus
 User → Chat Trigger → AI Agent (Gemini) → SQL Tool → real data → AI explains → User
 ```
 
+
+
 ---
 
 ## 🎯 Aim
